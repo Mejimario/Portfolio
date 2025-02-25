@@ -21,7 +21,7 @@
             
             <!-- Enlaces a redes sociales -->
             <div class="flex justify-center space-x-4 mt-4">
-                <a href="" target="_blank" class="text-blue-500 flex items-center space-x-2">
+                <a href="https://www.linkedin.com/in/mario-mejias-perea/" target="_blank" class="text-blue-500 flex items-center space-x-2">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png" alt="LinkedIn" class="w-6 h-6">
                     <span>LinkedIn</span>
                 </a>
