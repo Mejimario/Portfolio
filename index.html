@@ -15,7 +15,10 @@
             <!-- Descripción y nombre -->
             <h1 class="text-4xl font-bold mt-4">Mario Mejías Perea</h1>
             <p class="text-lg text-gray-600">Full-Stack Software Developer</p>
-            <p class="text-md text-gray-500 mt-2">Soy un desarrollador apasionado por la informática y la tecnología, con un enfoque en la resolución de problemas complejos y la creación de soluciones innovadoras. Mi filosofía es que no existe desafío imposible, cada reto es una oportunidad para aprender y crecer. <br> Me motiva constantemente superar metas y adquirir nuevos conocimientos, lo que me impulsa a estar al día con las últimas tendencias tecnológicas y a perfeccionar mis habilidades en el desarrollo de software. Mi compromiso es ofrecer resultados de alta calidad y aportar valor a cada proyecto en el que participo.</p>
+            <p class="text-md text-gray-500 mt-2">
+                Soy un desarrollador apasionado por la tecnología y la innovación, con una mentalidad orientada a la resolución de problemas y la creación de soluciones eficientes y escalables. Para mí, cada obstáculo es una oportunidad para explorar nuevas ideas y superar límites, creyendo firmemente que no hay desafío que no pueda ser abordado con creatividad y dedicación.<br>
+                Mi motivación principal es crecer tanto profesional como personalmente, lo que me lleva a mantenerme en constante aprendizaje y a estar siempre al tanto de las últimas tendencias y herramientas en el mundo del desarrollo de software. Me esfuerzo por alcanzar la excelencia en cada proyecto, asegurando que mis contribuciones no solo cumplan, sino que superen las expectativas, aportando valor y calidad en todo lo que hago.
+            </p>
             
             <!-- Edad calculada dinámicamente -->
             <p class="text-md text-gray-600 mt-2">Edad: <span id="age"></span></p>
@@ -128,8 +131,6 @@
             `;
             document.body.appendChild(modal);
         }
-
-
 
         fetch('studies.json')
             .then(response => response.json())
