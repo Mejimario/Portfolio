@@ -12,7 +12,7 @@
     { "name": "JavaScript", "logo": "img/JS.png" },
     { "name": "API REST", "logo": "img/REST.webp" },
     { "name": ".NET", "logo": "img/NET.svg" },
-    { "name": "Visual Studio", "logo": "img/vs.svg" },
+    { "name": "Visual Studio", "logo": "img/vs.png" },
     { "name": "Laravel", "logo": "img/Laravel.svg" }, 
     { "name": "Bootstrap", "logo": "img/Bootstrap.svg" },
     { "name": "Linux", "logo": "img/linux.svg" },
@@ -24,8 +24,8 @@
     { "name": "XAMPP", "logo": "img/xampp.png" },
     { "name": "OpenSSL", "logo": "img/ossl.png" },
     {"name": "JSON Web Token", "logo": "img/jwt.svg" },
-    { "name": "Swagger", "logo": "img/swagger.svg" },
-    { "name": "Filezilla", "logo": "img/filezilla.svg" },
-    { "name": "Visual Studio Code", "logo": "img/vsc.svg" },
-    { "name": "Putty", "logo": "img/putty.svg" }
+    { "name": "Swagger", "logo": "img/swagger.jpg" },
+    { "name": "Filezilla", "logo": "img/filezilla.avif" },
+    { "name": "Visual Studio Code", "logo": "img/vsc.jpg" },
+    { "name": "Putty", "logo": "img/putty.webp" }
 ]
