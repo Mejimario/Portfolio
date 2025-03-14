@@ -12,6 +12,7 @@
     { "name": "JavaScript", "logo": "img/JS.png" },
     { "name": "API REST", "logo": "img/REST.webp" },
     { "name": ".NET", "logo": "img/NET.svg" },
+    { "name": "Visual Studio", "logo": "img/vs.svg" },
     { "name": "Laravel", "logo": "img/Laravel.svg" }, 
     { "name": "Bootstrap", "logo": "img/Bootstrap.svg" },
     { "name": "Linux", "logo": "img/linux.svg" },
@@ -22,5 +23,9 @@
     { "name": "ASP.NET", "logo": "img/asp.jpg" },
     { "name": "XAMPP", "logo": "img/xampp.png" },
     { "name": "OpenSSL", "logo": "img/ossl.png" },
-    { "name": "JWT", "logo": "img/jwt.svg" }
+    {"name": "JSON Web Token", "logo": "img/jwt.svg" },
+    { "name": "Swagger", "logo": "img/swagger.svg" },
+    { "name": "Filezilla", "logo": "img/filezilla.svg" },
+    { "name": "Visual Studio Code", "logo": "img/vsc.svg" },
+    { "name": "Putty", "logo": "img/putty.svg" }
 ]
